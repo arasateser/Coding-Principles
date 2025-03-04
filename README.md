@@ -1,7 +1,7 @@
 # Software Design Principles in C#
 
-##Overview
-This repository explains key **software design principles** with **real-life examples** in C#. These principles help write **clean, maintainable, and scalable** code.
+###Overview
+This repository explains key **software design principles** with **real-life examples** in C#.
 
 ---
 
